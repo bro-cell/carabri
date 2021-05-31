@@ -1,0 +1,112 @@
+{
+	"Ads": [{
+		"select_ads": "ADMOB",
+		"status_app": "0",
+		"link_redirect": "https://",
+		"admob_interid": "ca-app-pub-3940256099942544/1033173712",
+		"admob_nativeid": "ca-app-pub-3940256099942544/2247696110",
+		"admob_openid": "",
+		"interval_intertitial": "3",
+		"startappid": "",
+		"fan_inter": "IMG_16_9_LINK#481972272922031_481972546255337",
+		"fan_banner_native": "IMG_16_9_LINK#481972272922031_481972696255322",
+		"mopub_banner": "",
+		"mopub_inter": "",
+		"unityID": "",
+		"unity_inter": "video",
+		"unity_banner": "bannerid",
+		"packagename": "com.trendpot.playplayearn.businessguide"
+	}],
+	"More": [
+
+	],
+
+	"Categories": [{
+		"id": 1,
+		"name_category": "Play Play",
+		"image": "file:///android_asset/image/image1.jpg"
+
+	}],
+
+	"Data": [{
+			"id": 1,
+			"name_category": "Play Play",
+			"title": "Apa itu Aplikasi Play Play?",
+			"image": "file:///android_asset/image/image1.jpg",
+			"description": "Play Play merupakan sebuah aplikasi yang berbasis game online yang bisa menghasilkan uang berupa saldo DANA dan GoPay",
+			"link": "file:///android_asset/guide/1.html"
+		},
+		{
+			"id": 2,
+			"name_category": "Play Play",
+			"title": "Cara Download Aplikasi Play Play",
+			"image": "file:///android_asset/image/image1.jpg",
+			"description": "Langkah-langkah untuk download aplikasi Play Play",
+			"link": "file:///android_asset/guide/2.html"
+		},
+		{
+			"id": 3,
+			"name_category": "Play Play",
+			"title": "Cara Mendaftar Aplikasi Play Play",
+			"image": "file:///android_asset/image/image1.jpg",
+			"description": "Cara Lengkap untuk Mendaftar aplikasi Play Play",
+			"link": "file:///android_asset/guide/3.html"
+		},
+		{
+			"id": 4,
+			"name_category": "Play Play",
+			"title": "Cara Menggunakan Aplikasi Play Play",
+			"image": "file:///android_asset/image/image1.jpg",
+			"description": "Bagaimana cara aplikasi Play Play",
+			"link": "file:///android_asset/guide/4.html"
+		},
+		{
+			"id": 5,
+			"name_category": "Play Play",
+			"title": "Cara Mendapatkan Coin dari Aplikasi Play Play",
+			"image": "file:///android_asset/image/image1.jpg",
+			"description": "Untuk mendapatkan koin yang banyak, Anda harus menyelesaikan misi atau tugas yang terdapat pada Play Play",
+			"link": "file:///android_asset/guide/5.html"
+		},
+		{
+			"id": 6,
+			"name_category": "Play Play",
+			"title": "Misi dan Tugas",
+			"image": "file:///android_asset/image/image1.jpg",
+			"description": "Untuk menghasilkan uang kalian bisa memilih beberapa tugas atau misi yang telah disipakan oleh aplikasi",
+			"link": "file:///android_asset/guide/6.html"
+		},
+		{
+			"id": 7,
+			"name_category": "Play Play",
+			"title": "Cara Tukar Koin Play Play Ke Saldo DANA",
+			"image": "file:///android_asset/image/image1.jpg",
+			"description": "Bagaimana caranye menukar koin ke DANA?",
+			"link": "file:///android_asset/guide/7.html"
+		},
+		{
+			"id": 8,
+			"name_category": "Play Play",
+			"title": "Apakah Play Play APK ini terbukti membayar?",
+			"image": "file:///android_asset/image/image1.jpg",
+			"description": "Sudah banyak yang membuktikan bahwa aplikasi Play Play ini betul membayar",
+			"link": "file:///android_asset/guide/8.html"
+		},
+		{
+			"id": 9,
+			"name_category": "Play Play",
+			"title": "Apakah Aplikasi Play Play Aman?",
+			"image": "file:///android_asset/image/image1.jpg",
+			"description": "Pembuktian Aplikasi Play Play",
+			"link": "file:///android_asset/guide/9.html"
+		},
+		{
+			"id": 10,
+			"name_category": "Play Play",
+			"title": "Kesimpulan",
+			"image": "file:///android_asset/image/image1.jpg",
+			"description": "Play Play adalah komunitas berbagi permainan untuk game seluler berkualitas tinggi",
+			"link": "file:///android_asset/guide/10.html"
+		}
+	]
+}
