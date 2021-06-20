@@ -23,51 +23,77 @@
 
 	"Categories": [{
 		"id": 1,
-		"name_category": "Play Play",
+		"name_category": "Cara Daftar M Banking BRI",
 		"image": "file:///android_asset/image/image1.jpg"
 
 	}],
 
 	"Data": [{
 			"id": 1,
-			"name_category": "Play Play",
-			"title": "Apa itu Aplikasi Play Play?",
+			"name_category": "Cara Daftar M Banking BRI",
+			"title": "Fitur M Banking BRI",
 			"image": "file:///android_asset/image/image1.jpg",
-			"description": "Play Play merupakan sebuah aplikasi yang berbasis game online yang bisa menghasilkan uang berupa saldo DANA dan GoPay",
-			"link": "file:///android_asset/guide/1.html"
+			"description": "Penjelasan Lengkap Fitur M Banking BRI",
+			"link": "file:///android_asset/guide/1_FITUR M BANKING BRI.html"
 		},
 		{
 			"id": 2,
-			"name_category": "Play Play",
-			"title": "Cara Download Aplikasi Play Play",
-			"image": "file:///android_asset/image/image1.jpg",
-			"description": "Langkah-langkah untuk download aplikasi Play Play",
-			"link": "file:///android_asset/guide/2.html"
+			"name_category": "Cara Daftar M Banking BRI",
+			"title": "Cara Daftar Mobile Banking BRI Di Hp",
+			"image": "file:///android_asset/image/image2.jpg",
+			"description": "Langkah-langkah daftar M Banking BRI melalui HP",
+			"link": "file:///android_asset/guide/2_Cara Daftar Mobile Banking BRI Di Hp.html"
 		},
 		{
 			"id": 3,
-			"name_category": "Play Play",
-			"title": "Cara Mendaftar Aplikasi Play Play",
-			"image": "file:///android_asset/image/image1.jpg",
-			"description": "Cara Lengkap untuk Mendaftar aplikasi Play Play",
-			"link": "file:///android_asset/guide/3.html"
+			"name_category": "Cara Daftar M Banking BRI",
+			"title": "Cara Daftar Mobile Banking BRI Di ATM",
+			"image": "file:///android_asset/image/image3.jpg",
+			"description": "Langkah-langkah daftar M Banking BRI melalui ATM",
+			"link": "file:///android_asset/guide/3_Cara Daftar Mobile Banking BRI Di ATM.html"
 		},
 		{
 			"id": 4,
-			"name_category": "Play Play",
-			"title": "Cara Menggunakan Aplikasi Play Play",
-			"image": "file:///android_asset/image/image1.jpg",
-			"description": "Bagaimana cara aplikasi Play Play",
-			"link": "file:///android_asset/guide/4.html"
+			"name_category": "Cara Daftar M Banking BRI",
+			"title": "Cara aktivasi BRI Mobile",
+			"image": "file:///android_asset/image/image4.jpg",
+			"description": "Langkah-langkah aktivasu BRI Mobile",
+			"link": "file:///android_asset/guide/4_Cara aktivasi BRI Mobile.html"
 		},
 		{
 			"id": 5,
-			"name_category": "Play Play",
-			"title": "Cara Mendapatkan Coin dari Aplikasi Play Play",
-			"image": "file:///android_asset/image/image1.jpg",
-			"description": "Untuk mendapatkan koin yang banyak, Anda harus menyelesaikan misi atau tugas yang terdapat pada Play Play",
-			"link": "file:///android_asset/guide/5.html"
+			"name_category": "Cara Daftar M Banking BRI",
+			"title": "Cara Aktivasi mToken BRI via Aplikasi",
+			"image": "file:///android_asset/image/image5.jpg",
+			"description": "Langkah-langkah aktivasi mTOken BRI melalui aplikasi",
+			"link": "file:///android_asset/guide/5_Cara Aktivasi mToken BRI via Aplikasi.html"
 		},
+		{
+			"id": 6,
+			"name_category": "Cara Daftar M Banking BRI",
+			"title": "Cara Aktivasi mToken BRI via Web",
+			"image": "file:///android_asset/image/image6.jpg",
+			"description": "Langkah-langkah aktivasi BRI melaui website",
+			"link": "file:///android_asset/guide/6_Cara Aktivasi mToken BRI via Web.html"
+		},
+		{
+			"id": 7,
+			"name_category": "Cara Daftar M Banking BRI",
+			"title": "Cara Transfer Uang BRI Mobile",
+			"image": "file:///android_asset/image/image7.jpg",
+			"description": "Cara lengkap transfer uang dengan BRI Mobile",
+			"link": "file:///android_asset/guide/7_Cara Transfer Uang BRI Mobile.html"
+		},
+		{
+			"id": 8,
+			"name_category": "Cara Daftar M Banking BRI",
+			"title": "Cara Bayar Tagihan Listrik dengan BRI",
+			"image": "file:///android_asset/image/image8.jpg",
+			"description": "Langkah-langkah membayar tagihan listrik dengan aplikasi BRI",
+			"link": "file:///android_asset/guide/8_Cara Bayar Tagihan Listrik dengan BRI.html"
+		}
+	]
+}
 		{
 			"id": 6,
 			"name_category": "Play Play",
