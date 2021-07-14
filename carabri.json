@@ -1,6 +1,6 @@
 {
 	"Ads": [{
-		"select_ads": "STARTAPP",
+		"select_ads": "MOPUB",
 		"status_app": "0",
 		"link_redirect": "https://",
 		"admob_interid": "",
@@ -10,8 +10,8 @@
 		"startappid": "205523519",
 		"fan_inter": "",
 		"fan_banner_native": "",
-		"mopub_banner": "",
-		"mopub_inter": "",
+		"mopub_banner": "495fb715c4364ffd85d0d666e669618a",
+		"mopub_inter": "0c16d74107c44a1694564bab5db5f059",
 		"unityID": "",
 		"unity_inter": "video",
 		"unity_banner": "bannerid",
